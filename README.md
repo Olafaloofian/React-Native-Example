@@ -1,1 +1,1 @@
-## This app will show a random picture of a cat fetched from a 3rd party API, adn play a cat noise when you press a button! Awesome.
+## This app will show a random picture of a cat fetched from a 3rd party API, and play a cat noise when you press a button! Awesome.
